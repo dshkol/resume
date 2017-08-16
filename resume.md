@@ -66,9 +66,9 @@ Skills
 ------
 
 * Software and languages:
-    -   Advanced: R, ggplot  
-    -   Familiar: Shiny, Markdown, htmlwidgets, SQL, Tableau, Leaflet, Carto, QGIS, Stata, SPSS  
-    -   Interested: Spark, Python
+    -   Advanced: R, ggplot
+    -   Familiar: Shiny, Markdown, htmlwidgets, SQL, Tableau, Leaflet, Carto, QGIS, Stata, SPSS
+    -   Interested: Spark, Python  
 
 * Methodology:
     -   Econometrics, likelihood estimation, forecasting, segmentation, classification, spatial modelling, network analysis, research design
@@ -83,7 +83,7 @@ Selected Presentations
 ----------------------
 
 * *"Estimating Visitor Volume"*, Travel and Tourism Research Association International, Quebec City, QB, June 2017  
-     Featured panel. Using of mobile phone location data to understand visitor flows in sub-national jurisdictions.  
+     Featured panel. Using mobile phone location data to understand visitor flows in sub-national jurisdictions where other data is unavailable.  
 * *"Spatio-temporal Data in Tourism Research"*, Travel and Tourism Research Association Canada, Edmonton, AB, September 2016  
      Detecting tourists and generating itineraries from social media photographic data.  
 * *"Agglomeration and Quality"*, Urban Economics Association,  Washington, D.C., November 2014  
