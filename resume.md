@@ -70,18 +70,18 @@ Skills
 Selected Open Source Work
 -------------------------
 
-* **cancensus**(co-author): a [package](https://github.com/mountainMath/cancensus) for tidy access and manipulation of Canadian Census data and geographical data. 
+* **cancensus**: a [package](https://github.com/mountainMath/cancensus) for tidy access and manipulation of Canadian Census data and geography. Co-author and package maintainer. 
 
 Selected Presentations
 ----------------------
 
 * *"Estimating Visitor Volume"*, Travel and Tourism Research Association International, Quebec City, QB, June 2017
 
-  -   Featured panel. Using of mobile phone location data to understand visitor flows in sub-national jurisdictions.
+      Featured panel. Using of mobile phone location data to understand visitor flows in sub-national jurisdictions.
 * *"Spatio-temporal Data in Tourism Research"*, Travel and Tourism Research Association Canada, Edmonton, AB, September 2016
-  -   Detecting tourists and generating itineraries from social media photographic data.
+      Detecting tourists and generating itineraries from social media photographic data.
 * *"Agglomeration and Quality"*, Urban Economics Association,  Washington, D.C., November 2014
-  -   Working paper. Using review and location data from Yelp to model spatial competition effects.  
+      Working paper. Using review and location data from Yelp to model spatial competition effects.  
 
 Public Service
 --------------
