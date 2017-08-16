@@ -58,14 +58,14 @@ Education
 Skills
 ------
 
-Software and languages:
-*   Advanced: R, ggplot  
-*   Familiar: Shiny, Markdown, htmlwidgets, SQL, Tableau, Leaflet, Carto, QGIS, Stata, SPSS  
-*   Interested: Spark, Python
+* Software and languages:
+    -   Advanced: R, ggplot  
+    -   Familiar: Shiny, Markdown, htmlwidgets, SQL, Tableau, Leaflet, Carto, QGIS, Stata, SPSS  
+    -   Interested: Spark, Python
 
-Methodology:
-*   Econometrics, likelihood estimation, forecasting, segmentation, classification, spatial modelling, network analysis
-*   Data visualization, presentation, and report writing
+* Methodology:
+    -   Econometrics, likelihood estimation, forecasting, segmentation, classification, spatial modelling, network analysis
+    -   Data visualization, presentation, and report writing
 
 Selected Open Source Work
 -------------------------
