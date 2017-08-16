@@ -8,7 +8,8 @@ In this capacity, I lead efforts to use non-traditional data, administrative, an
 ## View in detail
 
 * [Markdown](https://github.com/dshkol/resume/blob/master/resume.md)
-* PDF
+* [HTML](https://github.com/dshkol/resume/blob/master/resume.html)
+* [PDF](https://github.com/dshkol/resume/blob/master/resume.pdf)
 
 ## Contact me
 
