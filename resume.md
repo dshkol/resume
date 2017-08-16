@@ -64,9 +64,9 @@ Skills
     -   Interested: Spark, Python
 
 * Methodology:
-    -   Econometrics, likelihood estimation, forecasting, segmentation, classification, spatial modelling, network analysis
+    -   Econometrics, likelihood estimation, forecasting, segmentation, classification, spatial modelling, network analysis, research design
     -   Data visualization, presentation, and report writing
-
+    
 Selected Open Source Work
 -------------------------
 
