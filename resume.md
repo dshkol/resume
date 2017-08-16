@@ -1,10 +1,17 @@
+---
+output:
+  html_document: default
+  pdf_document:
+    latex_engine: pdflatex
+sansfont: Calibri Light
+---
 Dmitry Shkolnik
 ===============
 
 
 **E**: shkolnikd@gmail.com  
 **P**: 778-998-1704  
-**T**: [@dshkol](https://twitter.com/dshkol)  
+**T**: https://twitter.com/dshkol  
 **L**: https://www.linkedin.com/in/dmitryshkolnik
 
 Work Experience
