@@ -75,13 +75,12 @@ Selected Open Source Work
 Selected Presentations
 ----------------------
 
-* *"Estimating Visitor Volume"*, Travel and Tourism Research Association International, Quebec City, QB, June 2017
-
-      Featured panel. Using of mobile phone location data to understand visitor flows in sub-national jurisdictions.
-* *"Spatio-temporal Data in Tourism Research"*, Travel and Tourism Research Association Canada, Edmonton, AB, September 2016
-      Detecting tourists and generating itineraries from social media photographic data.
-* *"Agglomeration and Quality"*, Urban Economics Association,  Washington, D.C., November 2014
-      Working paper. Using review and location data from Yelp to model spatial competition effects.  
+* *"Estimating Visitor Volume"*, Travel and Tourism Research Association International, Quebec City, QB, June 2017  
+     Featured panel. Using of mobile phone location data to understand visitor flows in sub-national jurisdictions.  
+* *"Spatio-temporal Data in Tourism Research"*, Travel and Tourism Research Association Canada, Edmonton, AB, September 2016  
+     Detecting tourists and generating itineraries from social media photographic data.  
+* *"Agglomeration and Quality"*, Urban Economics Association,  Washington, D.C., November 2014  
+     Working paper. Using review and location data from Yelp to model spatial competition effects.  
 
 Public Service
 --------------
