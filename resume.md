@@ -27,7 +27,7 @@ Work Experience
     Previously, I was the research lead for updating the Explorer Quotient program which is Canada's national tourism segmentation system that is used throughout the industry.
     In this capacity, I worked on modernizing the segmentation methodology and on developing a strategic roadmap for future evolution of this segmentation system. 
     
-    In addition to major projects, my responsibilities also included building forecast models, statistical analyses, data visualization, building Tableau and R dashboards, and modernizing the research team's data management practices. 
+    In addition to major projects, my responsibilities also include building forecast models, statistical analyses, data visualization, building Tableau and R dashboards, and modernizing the research team's data management practices. 
     
 
 *   **Columbia Pacific Consulting** (Vancouver, BC)
