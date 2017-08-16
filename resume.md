@@ -16,7 +16,7 @@ Work Experience
 
     I lead efforts at Destination Canada to use new data sources to understand movement and behaviour of international visitors to Canada.
     Currently, I am the team lead for a pilot project involving detailed mobile phone signal data, as well as the lead for developing a national strategy for mobile phone data in tourism. 
-    I am also Destination Canada's primary research in its partnership with Statistics Canada to use and model financial transaction data for tourism. 
+    I am also Destination Canada's primary researcher in its partnership with Statistics Canada to use and model financial transaction data for tourism. 
     Previously, I was the research lead for updating the Explorer Quotient program which is Canada's national tourism segmentation system that is used throughout the industry.
     In this capacity, I worked on modernizing the segmentation methodology and on developing a strategic roadmap for future evolution of this segmentation system. 
     
