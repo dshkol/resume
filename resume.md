@@ -83,7 +83,9 @@ Selected Presentations
 ----------------------
 
 * *"Estimating Visitor Volume"*, Travel and Tourism Research Association International, Quebec City, QB, June 2017  
-     Featured panel. Using mobile phone location data to understand visitor flows in sub-national jurisdictions where other data is unavailable.  
+     Featured panel. Using mobile phone location data to understand visitor flows in sub-national jurisdictions where other data is unavailable. 
+* *"Storytelling for Researchers"*, Travel and Tourism Research Association International, Quebec City, QB, June 2017  
+     Workshop. Highlighting skills, techniques, and approaches for academic and professional researchers to adjust their presentations and communication styles for different types of non-academic audiences.  
 * *"Spatio-temporal Data in Tourism Research"*, Travel and Tourism Research Association Canada, Edmonton, AB, September 2016  
      Detecting tourists and generating itineraries from social media photographic data.  
 * *"Agglomeration and Quality"*, Urban Economics Association,  Washington, D.C., November 2014  
